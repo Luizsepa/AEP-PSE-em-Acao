@@ -107,9 +107,9 @@ Nesta etapa, o sistema completo ainda **não está implementado**, pois o objeti
 
 **Integrantes:**
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
+- Luiz Augusto Cavalheri
+- Guilherme Trepack Teixeira
+- Pedro Antonio Rangel
 
 ## Instituição
 
