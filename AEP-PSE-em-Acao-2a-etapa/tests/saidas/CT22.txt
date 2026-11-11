@@ -1,0 +1,2528 @@
+PSE em Ação - Planejamento e Acompanhamento de Ações de Saúde na Escola
+Use apenas dados fictícios e coletivos (sem dados individuais de estudantes).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Erro: limite de armazenamento atingido (100 ações). Não há espaço para novo cadastro.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: Opção inválida. Escolha um número do menu.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Ações cadastradas ---
+----------------------------------------
+Código.............: 1
+Escola.............: Escola 1
+Tema...............: Tema 1
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 1
+Responsável........: Resp 1
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 2
+Escola.............: Escola 2
+Tema...............: Tema 2
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 2
+Responsável........: Resp 2
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 3
+Escola.............: Escola 3
+Tema...............: Tema 3
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 3
+Responsável........: Resp 3
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 4
+Escola.............: Escola 4
+Tema...............: Tema 4
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 4
+Responsável........: Resp 4
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 5
+Escola.............: Escola 5
+Tema...............: Tema 5
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 5
+Responsável........: Resp 5
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 6
+Escola.............: Escola 6
+Tema...............: Tema 6
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 6
+Responsável........: Resp 6
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 7
+Escola.............: Escola 7
+Tema...............: Tema 7
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 7
+Responsável........: Resp 7
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 8
+Escola.............: Escola 8
+Tema...............: Tema 8
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 8
+Responsável........: Resp 8
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 9
+Escola.............: Escola 9
+Tema...............: Tema 9
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 9
+Responsável........: Resp 9
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 10
+Escola.............: Escola 10
+Tema...............: Tema 10
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 10
+Responsável........: Resp 10
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 11
+Escola.............: Escola 11
+Tema...............: Tema 11
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 11
+Responsável........: Resp 11
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 12
+Escola.............: Escola 12
+Tema...............: Tema 12
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 12
+Responsável........: Resp 12
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 13
+Escola.............: Escola 13
+Tema...............: Tema 13
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 13
+Responsável........: Resp 13
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 14
+Escola.............: Escola 14
+Tema...............: Tema 14
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 14
+Responsável........: Resp 14
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 15
+Escola.............: Escola 15
+Tema...............: Tema 15
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 15
+Responsável........: Resp 15
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 16
+Escola.............: Escola 16
+Tema...............: Tema 16
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 16
+Responsável........: Resp 16
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 17
+Escola.............: Escola 17
+Tema...............: Tema 17
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 17
+Responsável........: Resp 17
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 18
+Escola.............: Escola 18
+Tema...............: Tema 18
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 18
+Responsável........: Resp 18
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 19
+Escola.............: Escola 19
+Tema...............: Tema 19
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 19
+Responsável........: Resp 19
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 20
+Escola.............: Escola 20
+Tema...............: Tema 20
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 20
+Responsável........: Resp 20
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 21
+Escola.............: Escola 21
+Tema...............: Tema 21
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 21
+Responsável........: Resp 21
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 22
+Escola.............: Escola 22
+Tema...............: Tema 22
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 22
+Responsável........: Resp 22
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 23
+Escola.............: Escola 23
+Tema...............: Tema 23
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 23
+Responsável........: Resp 23
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 24
+Escola.............: Escola 24
+Tema...............: Tema 24
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 24
+Responsável........: Resp 24
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 25
+Escola.............: Escola 25
+Tema...............: Tema 25
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 25
+Responsável........: Resp 25
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 26
+Escola.............: Escola 26
+Tema...............: Tema 26
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 26
+Responsável........: Resp 26
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 27
+Escola.............: Escola 27
+Tema...............: Tema 27
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 27
+Responsável........: Resp 27
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 28
+Escola.............: Escola 28
+Tema...............: Tema 28
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 28
+Responsável........: Resp 28
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 29
+Escola.............: Escola 29
+Tema...............: Tema 29
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 29
+Responsável........: Resp 29
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 30
+Escola.............: Escola 30
+Tema...............: Tema 30
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 30
+Responsável........: Resp 30
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 31
+Escola.............: Escola 31
+Tema...............: Tema 31
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 31
+Responsável........: Resp 31
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 32
+Escola.............: Escola 32
+Tema...............: Tema 32
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 32
+Responsável........: Resp 32
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 33
+Escola.............: Escola 33
+Tema...............: Tema 33
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 33
+Responsável........: Resp 33
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 34
+Escola.............: Escola 34
+Tema...............: Tema 34
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 34
+Responsável........: Resp 34
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 35
+Escola.............: Escola 35
+Tema...............: Tema 35
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 35
+Responsável........: Resp 35
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 36
+Escola.............: Escola 36
+Tema...............: Tema 36
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 36
+Responsável........: Resp 36
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 37
+Escola.............: Escola 37
+Tema...............: Tema 37
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 37
+Responsável........: Resp 37
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 38
+Escola.............: Escola 38
+Tema...............: Tema 38
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 38
+Responsável........: Resp 38
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 39
+Escola.............: Escola 39
+Tema...............: Tema 39
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 39
+Responsável........: Resp 39
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 40
+Escola.............: Escola 40
+Tema...............: Tema 40
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 40
+Responsável........: Resp 40
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 41
+Escola.............: Escola 41
+Tema...............: Tema 41
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 41
+Responsável........: Resp 41
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 42
+Escola.............: Escola 42
+Tema...............: Tema 42
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 42
+Responsável........: Resp 42
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 43
+Escola.............: Escola 43
+Tema...............: Tema 43
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 43
+Responsável........: Resp 43
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 44
+Escola.............: Escola 44
+Tema...............: Tema 44
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 44
+Responsável........: Resp 44
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 45
+Escola.............: Escola 45
+Tema...............: Tema 45
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 45
+Responsável........: Resp 45
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 46
+Escola.............: Escola 46
+Tema...............: Tema 46
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 46
+Responsável........: Resp 46
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 47
+Escola.............: Escola 47
+Tema...............: Tema 47
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 47
+Responsável........: Resp 47
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 48
+Escola.............: Escola 48
+Tema...............: Tema 48
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 48
+Responsável........: Resp 48
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 49
+Escola.............: Escola 49
+Tema...............: Tema 49
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 49
+Responsável........: Resp 49
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 50
+Escola.............: Escola 50
+Tema...............: Tema 50
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 50
+Responsável........: Resp 50
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 51
+Escola.............: Escola 51
+Tema...............: Tema 51
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 51
+Responsável........: Resp 51
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 52
+Escola.............: Escola 52
+Tema...............: Tema 52
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 52
+Responsável........: Resp 52
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 53
+Escola.............: Escola 53
+Tema...............: Tema 53
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 53
+Responsável........: Resp 53
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 54
+Escola.............: Escola 54
+Tema...............: Tema 54
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 54
+Responsável........: Resp 54
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 55
+Escola.............: Escola 55
+Tema...............: Tema 55
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 55
+Responsável........: Resp 55
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 56
+Escola.............: Escola 56
+Tema...............: Tema 56
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 56
+Responsável........: Resp 56
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 57
+Escola.............: Escola 57
+Tema...............: Tema 57
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 57
+Responsável........: Resp 57
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 58
+Escola.............: Escola 58
+Tema...............: Tema 58
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 58
+Responsável........: Resp 58
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 59
+Escola.............: Escola 59
+Tema...............: Tema 59
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 59
+Responsável........: Resp 59
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 60
+Escola.............: Escola 60
+Tema...............: Tema 60
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 60
+Responsável........: Resp 60
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 61
+Escola.............: Escola 61
+Tema...............: Tema 61
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 61
+Responsável........: Resp 61
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 62
+Escola.............: Escola 62
+Tema...............: Tema 62
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 62
+Responsável........: Resp 62
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 63
+Escola.............: Escola 63
+Tema...............: Tema 63
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 63
+Responsável........: Resp 63
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 64
+Escola.............: Escola 64
+Tema...............: Tema 64
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 64
+Responsável........: Resp 64
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 65
+Escola.............: Escola 65
+Tema...............: Tema 65
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 65
+Responsável........: Resp 65
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 66
+Escola.............: Escola 66
+Tema...............: Tema 66
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 66
+Responsável........: Resp 66
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 67
+Escola.............: Escola 67
+Tema...............: Tema 67
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 67
+Responsável........: Resp 67
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 68
+Escola.............: Escola 68
+Tema...............: Tema 68
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 68
+Responsável........: Resp 68
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 69
+Escola.............: Escola 69
+Tema...............: Tema 69
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 69
+Responsável........: Resp 69
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 70
+Escola.............: Escola 70
+Tema...............: Tema 70
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 70
+Responsável........: Resp 70
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 71
+Escola.............: Escola 71
+Tema...............: Tema 71
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 71
+Responsável........: Resp 71
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 72
+Escola.............: Escola 72
+Tema...............: Tema 72
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 72
+Responsável........: Resp 72
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 73
+Escola.............: Escola 73
+Tema...............: Tema 73
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 73
+Responsável........: Resp 73
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 74
+Escola.............: Escola 74
+Tema...............: Tema 74
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 74
+Responsável........: Resp 74
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 75
+Escola.............: Escola 75
+Tema...............: Tema 75
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 75
+Responsável........: Resp 75
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 76
+Escola.............: Escola 76
+Tema...............: Tema 76
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 76
+Responsável........: Resp 76
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 77
+Escola.............: Escola 77
+Tema...............: Tema 77
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 77
+Responsável........: Resp 77
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 78
+Escola.............: Escola 78
+Tema...............: Tema 78
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 78
+Responsável........: Resp 78
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 79
+Escola.............: Escola 79
+Tema...............: Tema 79
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 79
+Responsável........: Resp 79
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 80
+Escola.............: Escola 80
+Tema...............: Tema 80
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 80
+Responsável........: Resp 80
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 81
+Escola.............: Escola 81
+Tema...............: Tema 81
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 81
+Responsável........: Resp 81
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 82
+Escola.............: Escola 82
+Tema...............: Tema 82
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 82
+Responsável........: Resp 82
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 83
+Escola.............: Escola 83
+Tema...............: Tema 83
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 83
+Responsável........: Resp 83
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 84
+Escola.............: Escola 84
+Tema...............: Tema 84
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 84
+Responsável........: Resp 84
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 85
+Escola.............: Escola 85
+Tema...............: Tema 85
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 85
+Responsável........: Resp 85
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 86
+Escola.............: Escola 86
+Tema...............: Tema 86
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 86
+Responsável........: Resp 86
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 87
+Escola.............: Escola 87
+Tema...............: Tema 87
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 87
+Responsável........: Resp 87
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 88
+Escola.............: Escola 88
+Tema...............: Tema 88
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 88
+Responsável........: Resp 88
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 89
+Escola.............: Escola 89
+Tema...............: Tema 89
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 89
+Responsável........: Resp 89
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 90
+Escola.............: Escola 90
+Tema...............: Tema 90
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 90
+Responsável........: Resp 90
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 91
+Escola.............: Escola 91
+Tema...............: Tema 91
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 91
+Responsável........: Resp 91
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 92
+Escola.............: Escola 92
+Tema...............: Tema 92
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 92
+Responsável........: Resp 92
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 93
+Escola.............: Escola 93
+Tema...............: Tema 93
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 93
+Responsável........: Resp 93
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 94
+Escola.............: Escola 94
+Tema...............: Tema 94
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 94
+Responsável........: Resp 94
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 95
+Escola.............: Escola 95
+Tema...............: Tema 95
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 95
+Responsável........: Resp 95
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 96
+Escola.............: Escola 96
+Tema...............: Tema 96
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 96
+Responsável........: Resp 96
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 97
+Escola.............: Escola 97
+Tema...............: Tema 97
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 97
+Responsável........: Resp 97
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 98
+Escola.............: Escola 98
+Tema...............: Tema 98
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 98
+Responsável........: Resp 98
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 99
+Escola.............: Escola 99
+Tema...............: Tema 99
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 99
+Responsável........: Resp 99
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Código.............: 100
+Escola.............: Escola 100
+Tema...............: Tema 100
+Data prevista......: 01/06/2027
+Público-alvo.......: Público 100
+Responsável........: Resp 100
+Participantes prev.: 10
+Participantes efet.: 0
+Situação...........: Planejada
+----------------------------------------
+Total de ações: 100
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+Encerrando o PSE em Ação. Até logo!

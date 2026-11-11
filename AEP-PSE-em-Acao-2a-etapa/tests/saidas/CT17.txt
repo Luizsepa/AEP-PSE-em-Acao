@@ -1,0 +1,36 @@
+PSE em Ação - Planejamento e Acompanhamento de Ações de Saúde na Escola
+Use apenas dados fictícios e coletivos (sem dados individuais de estudantes).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Resumo geral ---
+Nenhuma ação cadastrada. O resumo está zerado.
+Ações planejadas.....................: 0
+Ações realizadas.....................: 0
+Ações canceladas.....................: 0
+Total previsto (todas as ações)......: 0
+Total de participantes efetivos......: 0
+Participação sobre o total previsto..: 0.0%
+Participação nas ações realizadas....: 0.0%
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+Encerrando o PSE em Ação. Até logo!

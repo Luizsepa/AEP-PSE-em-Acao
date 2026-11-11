@@ -1,0 +1,113 @@
+PSE em Ação - Planejamento e Acompanhamento de Ações de Saúde na Escola
+Use apenas dados fictícios e coletivos (sem dados individuais de estudantes).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Cadastrar ação ---
+Código da ação (número inteiro positivo): Escola: Tema (ex.: alimentação saudável): Data prevista (DD/MM/AAAA): Público-alvo (ex.: 6º ano): Responsável: Quantidade prevista de participantes: Ação cadastrada com sucesso (situação inicial: Planejada).
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Atualizar situação ---
+Código da ação: Situação atual: Planejada
+1 - Planejada
+2 - Realizada
+3 - Cancelada
+Nova situação: Quantidade efetiva de participantes: Situação atualizada com sucesso: Realizada.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Atualizar situação ---
+Código da ação: Situação atual: Planejada
+1 - Planejada
+2 - Realizada
+3 - Cancelada
+Nova situação: Situação atualizada com sucesso: Cancelada.
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+--- Resumo geral ---
+Ações planejadas.....................: 1
+Ações realizadas.....................: 1
+Ações canceladas.....................: 1
+Total previsto (todas as ações)......: 120
+Total de participantes efetivos......: 30
+Participação sobre o total previsto..: 25.0%
+Participação nas ações realizadas....: 75.0%
+
+========================================
+   PSE EM AÇÃO - MENU PRINCIPAL
+========================================
+ 1 - Cadastrar ação
+ 2 - Listar ações
+ 3 - Pesquisar ações
+ 4 - Atualizar situação da ação
+ 5 - Gerar resumo geral
+ 0 - Encerrar
+========================================
+Escolha uma opção: 
+Encerrando o PSE em Ação. Até logo!
